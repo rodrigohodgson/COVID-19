@@ -10,4 +10,4 @@ Carlos André Nunes RA 154964
 
 Rodrigo Hodgson RA 911134
 
-Relatório e modelo no notebook disponível em: https://github.com/rodrigohodgson/COVID-19/blob/master/Modelo_previsao_leitos_COVID.ipynb
+Relatório e modelo no notebook disponível em: https://github.com/rodrigohodgson/COVID-19/blob/master/Modelo_previsao_leitos_COVID.ipynb ou https://colab.research.google.com/github/rodrigohodgson/COVID-19/blob/master/Modelo_previsao_leitos_COVID.ipynb
